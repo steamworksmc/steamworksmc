@@ -11,6 +11,10 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=Java&logoColor=white"/>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b6arvtgk6pcg43gdv24lgrvrau)
+
+<sub>yes, i listen to weird music</sub>
+
 ### Statistics
 <details>
   <summary>:zap: Click to show</summary>
